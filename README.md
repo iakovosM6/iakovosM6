@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iakovosM6
 - 👀 I’m interested in Political Behaviour and Quantitative Methods
-- 🌱 I conduct research on Election Candidates, Party Members, Covid-19 attitudes, Protests
+- 🌱 I conduct research on Election Candidates, Covid-19, Party Members, Protests
 - 📫 How to reach me: i.makropoulos@essex.ac.uk
 
 <!---
