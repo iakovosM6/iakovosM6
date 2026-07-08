@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iakovosM6
 - 👀 I’m interested in Survey Methodology, Political Methodology, Quantitative Political Behaviour and AI 
-- 🌱 I study elites and public opinion using survey-based methods.
+- 🌱 I study elites and public opinion using survey-based methods
 - 📫 How to reach me: iakovos.makropoulos@strath.ac.uk or i.makropoulos@qmul.ac.uk
 
 <!---
